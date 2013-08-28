@@ -1,6 +1,6 @@
 ﻿1. This project is developed with visual studio 2012 based on .Net framework 4.0 and MVC 4.0.
 
-2. The test framework microsoft unit test.
+2. The unit test framework is microsoft unit test.
 
 3. IoC container is latest version AutoFac.
 
